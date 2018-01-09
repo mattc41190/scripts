@@ -161,6 +161,9 @@ If everything went as planned you should be seeing the output of our glorious ap
 # Resources:
 
 https://www.java.com/en/download/help/download_options.xml
+
 https://maven.apache.org/install.html
+
 https://mvnrepository.com/artifact/org.codehaus.groovy/groovy-all
+
 https://github.com/groovy/GMavenPlus/wiki/Examples
